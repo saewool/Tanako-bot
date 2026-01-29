@@ -1,24 +1,58 @@
-BSD 2-Clause License
+NANOKOTON LICENSE v1.0
 
-Copyright (c) 2026, saewool
+Copyright (c) 2025 Tsukishiro Haru
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+1. Freedom of Use:
+   The Software shall always remain free of charge. You may use the Software
+   for any purpose, including commercial, educational, artistic, scientific,
+   governmental, or personal projects.
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+2. Modification and Derivatives:
+   You may modify the Software in any way. You may create derivative works,
+   combine the Software with other software, and distribute these derivatives,
+   provided that the resulting work is also licensed under NANOKOTON LICENSE v1.0.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+3. Attribution Rules for Integration:
+   a) Open Source Projects: You may include the Software or modified versions
+      into open source projects without requiring any attribution to the original
+      author(s).
+   b) Closed Source / Proprietary Projects: You may include the Software or
+      modified versions in closed source products, but you must provide a
+      reference to the original Software and its license (Nanokoton License v1.0)
+      in documentation, about page, or similar manner.
+
+   These rules apply equally to the original Software and any modifications or
+   derivative works.
+
+4. Distribution:
+   You may distribute the Software in original or modified form, in source or
+   binary form, with no additional restrictions beyond those in this license.
+
+5. Warranty Disclaimer:
+   The Software is provided "as is", without warranty of any kind, express or
+   implied, including but not limited to the warranties of merchantability,
+   fitness for a particular purpose, and non-infringement. In no event shall
+   the authors be liable for any claim, damages, or other liability, whether
+   in an action of contract, tort, or otherwise, arising from, out of, or in
+   connection with the Software or the use or other dealings in the Software.
+
+6. Perpetuity:
+   This license is perpetual. The freedoms granted herein cannot be revoked,
+   and all copies of the Software, modified or unmodified, must remain under
+   this license indefinitely.
+
+7. Absolute Freedom:
+   No additional restrictions may be imposed by distributors beyond those
+   explicitly stated herein. You may remove, rename, or restructure the
+   Software in any manner. The Software is intended to remain fully free and
+   open for all users in all contexts.
+
+By using, copying, modifying, or distributing this Software, you agree to
+abide by the terms of this license.
